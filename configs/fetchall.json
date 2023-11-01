@@ -6,7 +6,7 @@
     },
     "x86_64": {
       "url": "https://github.com/kiharito/fetchall/releases/download/v1.0.0/fetchall-x86_64-apple-darwin.tar.gz",
-      "sha256": "acaf5ea2fc37e3ea7a464743a1d02bbfbf790ad06ae2afc78c84ac6d8e276f4a"
+      "sha256": "5fd9bcc85b8e81b236d0f740152bd8e0e1482153f48aa7b6e4aba6c7f4d1371d"
     }
   },
   "linux": {
