@@ -1,0 +1,22 @@
+{
+  "mac": {
+    "arm64": {
+      "url": "https://github.com/kiharito/fetchall/releases/download/v1.0.0/fetchall-aarch64-apple-darwin.tar.gz",
+      "sha256": "b38daa36a7047c9a8721bc3791a5e1c8f1f2a2ddee1d4aaecb37893e6540c90a"
+    },
+    "x86_64": {
+      "url": "https://github.com/kiharito/fetchall/releases/download/v1.0.0/fetchall-x86_64-apple-darwin.tar.gz",
+      "sha256": "acaf5ea2fc37e3ea7a464743a1d02bbfbf790ad06ae2afc78c84ac6d8e276f4a"
+    }
+  },
+  "linux": {
+    "arm64": {
+      "url": "https://github.com/kiharito/fetchall/releases/download/v1.0.0/fetchall-aarch64-unknown-linux-gnu.tar.gz",
+      "sha256": "50b82c50a9bed86067852d43ae36a4be2f8e284eb1621cd35411dedbd481ed77"
+    },
+    "x86_64": {
+      "url": "https://github.com/kiharito/fetchall/releases/download/v1.0.0/fetchall-x86_64-unknown-linux-gnu.tar.gz",
+      "sha256": "452334f088e9cf0f550d63c5a5e7bde2fd4a61fae9e328cd603690642d47769b"
+    }
+  }
+}
